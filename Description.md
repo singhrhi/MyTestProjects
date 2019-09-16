@@ -11,3 +11,8 @@ Goal of this project was to learn grid system in CSS. How grids are used in diff
 Shopping Cart:
 
 Basic shopping cart is created to learn different core concepts of Angular 4, like cross component communication, different use cases of services, components movement through routing, and filters.
+
+
+Fitness Tracker:
+
+Its a app built with Angular 7, Angular material, Angular Fire &Ngrx
